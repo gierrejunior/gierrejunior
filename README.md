@@ -5,8 +5,8 @@
 - 🔭 Hoje trabalho com Back-end
 - 🌱 estudando Python, django e java
 
-<div align="center">
-  <img align="middle" alt="cat-codando" height="200" width="200" src="https://miro.medium.com/max/960/1*XcP8x4p0AmeUX0j65lY8Yw.gif">
+<div align="left">
+  <img align="middle" alt="cat-codando" height="150" width="150" src="https://miro.medium.com/max/960/1*XcP8x4p0AmeUX0j65lY8Yw.gif">
 </div>
 
 ##
