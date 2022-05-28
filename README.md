@@ -12,15 +12,15 @@
 ##
 <div align="center">
   <a href="https://github.com/gierrejunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gierrejunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gierrejunior&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gierrejunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gierrejunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Gierre-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gierre-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Gierre-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Gierre-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Gierre-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
  
   ##
