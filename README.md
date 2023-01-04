@@ -1,5 +1,5 @@
 
-# Hi I am Gierre <img align="middle" alt="cat-codando" height="30" width="50" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-oi-eu-sou-o-goku-22.gif">
+# Hi I am Gierre <img align="middle" alt="Goku" height="70" width="120" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-oi-eu-sou-o-goku-22.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gierrejunior" alt="gierrejunior" /> </p>
 
