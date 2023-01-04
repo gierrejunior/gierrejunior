@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Back-end, desenvolvendo em Python, usando o framework Django
-- 🌱 Estudando o framework Scrapy e formas de webscrapping
+- 🌱 Estudando o framework Scrapy (e outras formas de webscrapping) e Postgresql 
 
 <div align="left">
   <img align="middle" alt="cat-codando" height="150" width="150" src="https://miro.medium.com/max/960/1*XcP8x4p0AmeUX0j65lY8Yw.gif">
@@ -22,10 +22,11 @@
   <img align="center" alt="Gierre-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gierre-Osgeo" height="50" width="60" src="https://www.osgeo.org/wp-content/themes/roots/assets/img/logo-osgeo.svg">
   <img align="center" alt="Gierre-QGis" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png?20180304175057">
+  <img align="center" alt="Gierre-Postgre" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Gierre-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Gierre-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Gierre-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Gierre -numpy" height="50" width="60" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="Gierre -numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </div>
  
   ##
