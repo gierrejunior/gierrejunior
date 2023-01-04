@@ -15,9 +15,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gierrejunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gierrejunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <p>
-  ### 🛠️ Languages and tools that I use in my day:
-  </p>
+  
+  <div align="center">
+  🛠️ Languages and tools that I use in my day:
+  </div>
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Gierre-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gierre-Osgeo" height="50" width="60" src="https://www.osgeo.org/wp-content/themes/roots/assets/img/logo-osgeo.svg">
