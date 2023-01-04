@@ -15,12 +15,17 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gierrejunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gierrejunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  <p>
+  ### 🛠️ Languages and tools that I use in my day:
+  </p>
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Gierre-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gierre-Osgeo" height="50" width="60" src="https://www.osgeo.org/wp-content/themes/roots/assets/img/logo-osgeo.svg">
+  <img align="center" alt="Gierre-QGis" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png?20180304175057">
   <img align="center" alt="Gierre-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Gierre-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Gierre-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Gierre -numpy" height="50" width="60" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
  
   ##
