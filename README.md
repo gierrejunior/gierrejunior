@@ -1,9 +1,9 @@
 
-# Oi eu sou o Gierre <img align="middle" alt="cat-codando" height="30" width="50" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-oi-eu-sou-o-goku-22.gif">
+# Hi I am Gierre <img align="middle" alt="cat-codando" height="30" width="50" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-oi-eu-sou-o-goku-22.gif">
 
 
-- 🔭 Hoje trabalho com Back-end, desenvolvendo em Python, usando o framework Django
-- 🌱 Estudando o framework Scrapy (e outras formas de webscrapping) e Postgresql 
+- 🔭 working with Back-end, I develop in Python and Django
+- 🌱 I'm currently Studying the Scrapy framework (and other forms of webscrapping) and Postgresql
 
 <div align="left">
   <img align="middle" alt="cat-codando" height="150" width="150" src="https://miro.medium.com/max/960/1*XcP8x4p0AmeUX0j65lY8Yw.gif">
