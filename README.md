@@ -5,6 +5,8 @@
 - 🔭 working with Back-end, I develop in Python and Django
 - 🌱 I'm currently Studying the Scrapy framework (and other forms of webscrapping) and Postgresql
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gierrejunior" alt="gierrejunior" /> </p> 
+
 <div align="left">
   <img align="middle" alt="cat-codando" height="150" width="150" src="https://miro.medium.com/max/960/1*XcP8x4p0AmeUX0j65lY8Yw.gif">
 </div>
@@ -36,7 +38,9 @@
   <a href="https://instagram.com/gierre_junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gierremartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gierrejunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
+    
+  
+
   ![Snake animation](https://github.com/gierrejunior/gierrejunior/blob/output/github-contribution-grid-snake.svg)
  
 </div>
