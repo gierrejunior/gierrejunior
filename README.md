@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gierrejunior" alt="gierrejunior" /> </p>
 
 - 🔭 working with Back-end, I develop in Python and Django
-- 🌱 I'm currently Studying NodeJS
+- 🌱 I'm currently Studying NodeJS and ExpressJS
 
 <div align="center">
   <img align="middle" alt="cat-codando" height="150" width="150" src="https://miro.medium.com/max/960/1*XcP8x4p0AmeUX0j65lY8Yw.gif">
