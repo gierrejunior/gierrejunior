@@ -2,7 +2,7 @@
 
 # Hi, I'm Gierre 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Geospatial+Developer+%7C+Backend+Developer;Python+%7C+R+%7C+Django+%7C+FastAPI+%7C+PostGIS+%7C+QGIS;Building+data-driven+and+geospatial+platforms;Turning+data+into+maps%2C+models%2C+APIs+and+decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Data+Scientist+%7C+Geospatial+Developer+%7C+Backend+Developer;Python+%7C+R+%7C+Django+%7C+FastAPI+%7C+PostGIS+%7C+QGIS;Building+data-driven+and+geospatial+platforms;Turning+data+into+maps%2C+models%2C+APIs+and+decisions" alt="Typing SVG" />
 
 <br><br>
 
@@ -24,9 +24,25 @@
 
 ## 🚀 About me
 
-I am a **Data Scientist, Geospatial Developer, and Backend Developer** focused on transforming data into useful analytical tools, dashboards, APIs, and geospatial platforms.
+I am a **Data Scientist, Geospatial Developer, and Backend Developer** focused on building solutions that connect **data analysis, geospatial intelligence, backend systems, and decision-making tools**.
 
-My work combines **data analysis, time series modeling, geoprocessing, backend development, and data engineering**, with experience in academic research, consulting projects, environmental data analysis, and software development.
+My work is strongly related to **data-driven applications**, especially projects involving environmental data, spatial databases, dashboards, APIs, satellite imagery, and analytical workflows. I enjoy working at the intersection between **statistics, software development, geoprocessing, and real-world data problems**.
+
+I have experience with **data analysis, time series modeling, geospatial processing, backend development, and data engineering**, including academic research, consulting projects, environmental monitoring, and software solutions for public and private contexts.
+
+---
+
+## 🧠 A little more about my work
+
+- 📊 I work with **data analysis, modeling, visualization, and reproducible reports**
+- 🌎 I develop workflows for **geospatial data processing**, including vector and raster data
+- 🛰️ I explore **remote sensing and satellite imagery** for environmental monitoring
+- ⚙️ I build **APIs, backend services, and data platforms** using Python-based tools
+- 🗺️ I create and improve **interactive maps and geospatial dashboards**
+- 🧮 I study and apply **time series models**, forecasting methods, and simulation studies
+- 🐘 I use **PostgreSQL/PostGIS** for spatial databases and geospatial systems
+- 🐳 I work with **Docker, Linux, Git, and cloud/object storage workflows**
+- 📚 I am constantly improving my skills in **data engineering, scalable geospatial platforms, and backend architecture**
 
 ---
 
@@ -85,6 +101,7 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -121,7 +138,7 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=22C55E&center=true&vCenter=true&width=850&lines=%F0%9F%8C%8E+Building+geospatial+platforms;%F0%9F%9B%B0%EF%B8%8F+Processing+satellite+and+environmental+data;%F0%9F%A7%AE+Developing+time+series+and+statistical+models;%E2%9A%99%EF%B8%8F+Creating+APIs+and+backend+services;%F0%9F%97%BA%EF%B8%8F+Working+with+PostGIS%2C+COGs%2C+PMTiles+and+dashboards" alt="Current focus typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=22C55E&center=true&vCenter=true&width=900&lines=%F0%9F%8C%8E+Building+geospatial+platforms;%F0%9F%9B%B0%EF%B8%8F+Processing+satellite+and+environmental+data;%F0%9F%A7%AE+Developing+time+series+and+statistical+models;%E2%9A%99%EF%B8%8F+Creating+APIs+and+backend+services;%F0%9F%97%BA%EF%B8%8F+Working+with+PostGIS%2C+COGs%2C+PMTiles+and+dashboards" alt="Current focus typing animation" />
 
 <br><br>
 
@@ -162,6 +179,65 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 ---
 
+## 🧪 What I like to build
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🗺️ Geospatial Platforms</h3>
+      <p>
+        Dashboards, map viewers, layer catalogs, spatial APIs, and tools for publishing geographic data.
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛰️ Remote Sensing Pipelines</h3>
+      <p>
+        Workflows for satellite imagery, raster processing, COGs, environmental indicators, and monitoring.
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📊 Analytical Reports</h3>
+      <p>
+        Data analysis, statistical summaries, time series evaluation, simulations, and reproducible outputs.
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🗺️ Explore my work
+
+<div align="center">
+
+<a href="https://github.com/gierrejunior?tab=repositories&q=&type=&language=python&sort=">
+  <img src="https://img.shields.io/badge/Explore%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://github.com/gierrejunior?tab=repositories&q=&type=&language=r&sort=">
+  <img src="https://img.shields.io/badge/Explore%20R%20Projects-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</a>
+
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Geospatial%20Projects-2E8B57?style=for-the-badge&logo=googleearth&logoColor=white">
+</a>
+
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Data%20Dashboards-FF6F00?style=for-the-badge&logo=plotly&logoColor=white">
+</a>
+
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Backend%20APIs-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -172,13 +248,21 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gierrejunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gierrejunior&theme=tokyonight" alt="GitHub profile summary" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gierrejunior&layout=compact&langs_count=8&theme=tokyonight"/>
+<br><br>
+
+<img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gierrejunior&theme=tokyonight" alt="Repos per language" />
+<img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gierrejunior&theme=tokyonight" alt="Most commit language" />
+
+<br><br>
+
+<img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gierrejunior&theme=tokyonight" alt="GitHub stats" />
+<img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gierrejunior&theme=tokyonight&utcOffset=-3" alt="Productive time" />
 
 </div>
 
@@ -188,7 +272,7 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gierrejunior&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="700" src="https://streak-stats.demolab.com?user=gierrejunior&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -198,7 +282,7 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gierrejunior&theme=tokyo-night&hide_border=true" />
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=gierrejunior&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -222,6 +306,6 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+maps%2C+models%2C+APIs+and+decisions.;Building+tools+for+data-driven+and+geospatial+analysis." alt="Footer typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+data+into+maps%2C+models%2C+APIs+and+decisions.;Building+tools+for+data-driven+and+geospatial+analysis.;Connecting+statistics%2C+geospatial+data%2C+and+software+development." alt="Footer typing SVG" />
 
 </div>
