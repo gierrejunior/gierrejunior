@@ -2,7 +2,7 @@
 
 # Hi, I'm Gierre 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Statistician+%7C+Geospatial+Developer;Python+%7C+R+%7C+Django+%7C+PostGIS+%7C+QGIS;Building+data-driven+and+geospatial+platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Geospatial+Developer+%7C+Backend+Developer;Python+%7C+R+%7C+Django+%7C+PostGIS+%7C+QGIS;Building+data-driven+and+geospatial+platforms" alt="Typing SVG" />
 
 <br>
 
@@ -22,9 +22,9 @@
 
 ## 🚀 About me
 
-I am a **Data Scientist, Statistician, and Geospatial Developer** focused on transforming data into useful analytical tools, dashboards, APIs, and geospatial platforms.
+I am a **Data Scientist, Geospatial Developer, and Backend Developer** focused on transforming data into useful analytical tools, dashboards, APIs, and geospatial platforms.
 
-My work combines **statistics, time series modeling, geoprocessing, backend development, and data engineering**, with experience in academic research, consulting projects, environmental data analysis, and software development.
+My work combines **data analysis, time series modeling, geoprocessing, backend development, and data engineering**, with experience in academic research, consulting projects, environmental data analysis, and software development.
 
 ---
 
@@ -34,8 +34,9 @@ My work combines **statistics, time series modeling, geoprocessing, backend deve
   <tr>
     <td width="50%">
 
-### 📊 Data Science & Statistics
+### 📊 Data Science & Analytics
 
+- Data analysis  
 - Statistical modeling  
 - Time series forecasting  
 - Simulation studies  
