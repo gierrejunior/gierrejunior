@@ -1,46 +1,120 @@
+<div align="center">
 
-# Hi I am Gierre <img align="middle" alt="Goku" height="70" width="120" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-oi-eu-sou-o-goku-22.gif">
+# Hi, I'm Gierre 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gierrejunior" alt="gierrejunior" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Statistician+%7C+Geospatial+Developer;Python+%7C+R+%7C+Django+%7C+PostGIS+%7C+QGIS;Building+data-driven+and+geospatial+platforms" alt="Typing SVG" />
 
-- 🔭 working with Back-end, I develop in Python and Django
-- 🌱 I'm currently Studying NodeJS and ExpressJS
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gierrejunior&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+</div>
+
+---
 
 <div align="center">
-  <img align="middle" alt="cat-codando" height="150" width="150" src="https://miro.medium.com/max/960/1*XcP8x4p0AmeUX0j65lY8Yw.gif">
+
+<img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
+
 </div>
 
-##
+---
+
+## 🚀 About me
+
+I am a **Data Scientist, Statistician, and Geospatial Developer** focused on transforming data into useful analytical tools, dashboards, APIs, and geospatial platforms.
+
+My work combines **statistics, time series modeling, geoprocessing, backend development, and data engineering**, with experience in academic research, consulting projects, environmental data analysis, and software development.
+
+---
+
+## 🧭 What I do
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 📊 Data Science & Statistics
+
+- Statistical modeling  
+- Time series forecasting  
+- Simulation studies  
+- Reproducible reports  
+- Data visualization  
+
+    </td>
+    <td width="50%">
+
+### 🌎 Geospatial Development
+
+- Spatial databases  
+- PostGIS workflows  
+- Raster and vector processing  
+- Interactive maps  
+- Remote sensing pipelines  
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+
+### ⚙️ Backend & APIs
+
+- Python backends  
+- Django and FastAPI  
+- REST APIs  
+- Data processing services  
+- Docker-based environments  
+
+    </td>
+    <td width="50%">
+
+### 🛰️ Environmental Data
+
+- Satellite imagery  
+- Deforestation analysis  
+- CAR and territorial data  
+- Geospatial dashboards  
+- Public data platforms  
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <a href="https://github.com/gierrejunior">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gierrejunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gierrejunior&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div align="center">
-  🛠️ Languages and tools that I use in my day:
-  </div>
-<div style="display: inline_block" align = "center"><br>
-  <img align="center" alt="Gierre-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gierre-QGis" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png?20180304175057">
-  <img align="center" alt="Gierre-Postgre" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Gierre-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Gierre-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Gierre-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Gierre -numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="center" alt="Gierre -nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Gierre -express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-</div>
- 
-  ##
-  
-  <div align="center"> 
-  <a href="https://instagram.com/gierre_junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gierremartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gierrejunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-  
 
-  ![Snake animation](https://github.com/gierrejunior/gierrejunior/blob/output/github-contribution-grid-snake.svg)
- 
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,r,js,ts,sql" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,redis" />
+
+### Geospatial, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,vscode" />
+
+<br><br>
+
+<img align="center" alt="QGIS" height="55" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
+
 </div>
+
+---
+
+## 🔥 Current focus
+
+```txt
+🌎 Building geospatial platforms
+🛰️ Processing satellite and environmental data
+🧮 Developing statistical and time series models
+⚙️ Creating APIs and backend services for data-driven systems
+🗺️ Working with PostGIS, raster data, vector tiles, COGs and dashboards
