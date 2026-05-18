@@ -2,11 +2,13 @@
 
 # Hi, I'm Gierre 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Geospatial+Developer+%7C+Backend+Developer;Python+%7C+R+%7C+Django+%7C+PostGIS+%7C+QGIS;Building+data-driven+and+geospatial+platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Geospatial+Developer+%7C+Backend+Developer;Python+%7C+R+%7C+Django+%7C+FastAPI+%7C+PostGIS+%7C+QGIS;Building+data-driven+and+geospatial+platforms;Turning+data+into+maps%2C+models%2C+APIs+and+decisions" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gierrejunior&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/gierrejunior?style=for-the-badge&logo=github&color=0A66C2" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/gierrejunior?style=for-the-badge&logo=github&color=FF6F00" alt="GitHub stars" />
 
 </div>
 
@@ -14,7 +16,7 @@
 
 <div align="center">
 
-<img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
+<img height="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
 </div>
 
@@ -68,7 +70,7 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
     </td>
     <td align="center" width="50%">
       <h3>🛰️ Environmental Data</h3>
-      <img src="https://img.shields.io/badge/Satellite%20Imagery-0A66C2?style=for-the-badge&logo=satellite&logoColor=white">
+      <img src="https://img.shields.io/badge/Satellite%20Imagery-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white">
       <br><br>
       <img src="https://img.shields.io/badge/Remote%20Sensing-2E8B57?style=for-the-badge&logo=googleearth&logoColor=white">
       <br><br>
@@ -119,23 +121,15 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Building%20geospatial%20platforms-111827?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=22C55E&center=true&vCenter=true&width=850&lines=%F0%9F%8C%8E+Building+geospatial+platforms;%F0%9F%9B%B0%EF%B8%8F+Processing+satellite+and+environmental+data;%F0%9F%A7%AE+Developing+time+series+and+statistical+models;%E2%9A%99%EF%B8%8F+Creating+APIs+and+backend+services;%F0%9F%97%BA%EF%B8%8F+Working+with+PostGIS%2C+COGs%2C+PMTiles+and+dashboards" alt="Current focus typing animation" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Processing%20satellite%20and%20environmental%20data-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Developing%20statistical%20and%20time%20series%20models-8A2BE2?style=for-the-badge&logo=r&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Creating%20APIs%20and%20backend%20services-092E20?style=for-the-badge&logo=fastapi&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PostGIS%20%7C%20Raster%20Data%20%7C%20Vector%20Tiles%20%7C%20COGs-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/GeoPlatforms-111827?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Satellite%20Data-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white">
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/COGs%20%26%20PMTiles-2E8B57?style=for-the-badge&logo=mapbox&logoColor=white">
+<img src="https://img.shields.io/badge/APIs-092E20?style=for-the-badge&logo=fastapi&logoColor=white">
 
 </div>
 
@@ -145,12 +139,34 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 <div align="center">
 
-![Geospatial](https://img.shields.io/badge/Geospatial%20Data-2E8B57?style=for-the-badge&logo=googleearth&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-0A66C2?style=for-the-badge&logo=satellite&logoColor=white)
-![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-8A2BE2?style=for-the-badge&logo=r&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend%20Development-111827?style=for-the-badge&logo=django&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Geospatial%20Data-2E8B57?style=for-the-badge&logo=googleearth&logoColor=white">
+</a>
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Remote%20Sensing-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white">
+</a>
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-8A2BE2?style=for-the-badge&logo=r&logoColor=white">
+</a>
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/Backend%20Development-111827?style=for-the-badge&logo=django&logoColor=white">
+</a>
+<a href="https://github.com/gierrejunior?tab=repositories">
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gierrejunior&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
 
 </div>
 
@@ -168,21 +184,21 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 ---
 
-## 🧩 Contribution Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gierrejunior&theme=tokyo-night&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=gierrejunior&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧩 Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://github.com/gierrejunior/gierrejunior/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gierrejunior&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -206,6 +222,6 @@ My work combines **data analysis, time series modeling, geoprocessing, backend d
 
 <div align="center">
 
-### “Turning data into maps, models, APIs, and decisions.”
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+maps%2C+models%2C+APIs+and+decisions.;Building+tools+for+data-driven+and+geospatial+analysis." alt="Footer typing SVG" />
 
 </div>
